@@ -4,9 +4,6 @@
 
 ## github를 이용한 웹페이지 만들기 연습 중입니다!
 
-[이루리](http://eruri.kangwon.ac.kr "이루리 이동")   
-[강원대학교](https://www.kangwon.ac.kr "강원대학교 이동")
-
 ***
 
  - **[자우림 : 스물다섯, 스물하나](https://www.youtube.com/watch?v=qvJ1FHRR1n8 "노래 듣기")**   
