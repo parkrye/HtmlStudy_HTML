@@ -4,7 +4,7 @@
 
 ## github를 이용한 웹페이지 만들기 연습 중입니다!
 
-[이루리](http://eruri.kangwon.ac.kr "이루리 이동") | [강원대학교](https://www.kangwon.ac.kr/www/index.do "강원대학교 이동")
+[이루리](http://eruri.kangwon.ac.kr "이루리 이동") | [강원대학교](https://www.kangwon.ac.kr "강원대학교 이동")
 
 ***
 
