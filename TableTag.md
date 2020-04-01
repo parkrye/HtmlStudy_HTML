@@ -1,16 +1,16 @@
 <html>
   <head>
-        <title>Table TAG 연습</title>
+        <title> Table TAG 연습 </title>
   </head>
   <body>
     <header>
       <center>
-        <h1> Table TAG 연습 (과제 #03-01) </h2>
+        <h2> Table TAG 연습 (과제 #03-01) </h2>
       </center>
     </header>
     <section>
       <article>
-        <table border="1" style="width:30%" align="center">
+        <table border="1" align="center">
           <tr>
             <td colspan="4" rowspan="4">1</td>
             <td colspan="4" rowspan="4">2</td>
