@@ -8,7 +8,8 @@
    **[테이블 연습 페이지](https://parkrye.github.io/TableTag "테이블 페이지 바로가기")**<br>
    **[캔버스 연습 페이지](https://parkrye.github.io/TableTag "캔버스 페이지 바로가기")**<br>
 
- - **[자우림 : 스물다섯, 스물하나](https://www.youtube.com/watch?v=qvJ1FHRR1n8 "노래 듣기")**   
+ - 노래 듣기<p>
+  **[자우림 : 스물다섯, 스물하나](https://www.youtube.com/watch?v=qvJ1FHRR1n8 "노래 듣기")**   
   바람에 날려 꽃이 지는 계절엔 아직도 너의 손을 잡은 듯 그런 듯 해.   
   그때는 아직 꽃이 아름다운 걸 지금처럼 사무치게 알지 못했어.   
   너의 향기가 바람에 실려 오네, 영원할 줄 알았던 스물다섯, 스물하나.   
