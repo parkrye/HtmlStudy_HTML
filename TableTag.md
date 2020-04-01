@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1>Table TAG 연습 (과제 #03-01)</h1>
-    <table border="3" width="256"">
+    <table border="3" width="256">
       <tr height="128">
         <td colspan="4" rowspan="4" align="center" width="128">1</td>
         <td colspan="4" rowspan="4" align="center" width="128">2</td>
