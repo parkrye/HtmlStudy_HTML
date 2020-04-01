@@ -1,9 +1,11 @@
 <html>
   <head>
-    <h1> Table TAG 연습 (과제 #03-01) </h1>
   </head>
   <body>
     <section>
+      <center>
+        <h1> Table TAG 연습 (과제 #03-01) </h1>
+      </center>
       <article>
         <table border="1" style="width:50%">
           <tr>
