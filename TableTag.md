@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> Table TAG 연습 (과제 #03-01) </title>
+    <h1> Table TAG 연습 (과제 #03-01) </h1>
   </head>
   <body>
     <section>
