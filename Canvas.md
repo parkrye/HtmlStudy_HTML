@@ -1,7 +1,9 @@
 <html>
   <head>
+    <title>&lt;canvas&gt; 사용예</title>
   </head>
   <body>
+    <h1>&lt;canvas&gt; 사용예 (과제 #03-02)</h1>
     <canvas id="test" width="200" height="100"></canvas>
     <script>
       var c = document.getElementById("test");
