@@ -4,10 +4,9 @@
 
 ## github를 이용한 웹페이지 만들기 연습 중입니다!
 
-***
-
- - 페이지 이동입니다
-   **[테이블 연습 페이지](https://parkrye.github.io/TableTag "바로가기")**
+ - 페이지 이동입니다<br>
+   **[테이블 연습 페이지](https://parkrye.github.io/TableTag "테이블 페이지 바로가기")**<br>
+   **[캔버스 연습 페이지](https://parkrye.github.io/TableTag "캔버스 페이지 바로가기")**<br>
 
  - **[자우림 : 스물다섯, 스물하나](https://www.youtube.com/watch?v=qvJ1FHRR1n8 "노래 듣기")**   
   바람에 날려 꽃이 지는 계절엔 아직도 너의 손을 잡은 듯 그런 듯 해.   
