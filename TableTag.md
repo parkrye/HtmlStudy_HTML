@@ -3,7 +3,7 @@
         <title> Table TAG 연습 </title>
   </head>
   <body>
-    <h2> Table TAG 연습 (과제 #03-01) </h2>
+    <h1> Table TAG 연습 (과제 #03-01) </h1>
     <table border="1">
       <tr>
         <td colspan="4" rowspan="4" align="center"> 1 </td>
