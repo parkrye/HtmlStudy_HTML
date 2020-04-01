@@ -1,9 +1,6 @@
 <html>
   <head>
     <title>Table TAG 연습</title>
-    table, th, td {
-      border:1px solid black;
-    }
     <h1>Table TAG 연습 (과제 #03-01)</h1>
   </head>
   <body>
@@ -27,7 +24,7 @@
             <td align="center" width="32" height="32">8</td>
           </tr>
           <tr>
-            <td align="center" width="32" height="32">9</td>
+            <td align="center" width="32" height="32" bgcolor="red">9</td>
             <td align="center" width="32" height="32">10</td>
           </tr>
         </table>
