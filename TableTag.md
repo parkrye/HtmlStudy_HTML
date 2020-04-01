@@ -1,11 +1,10 @@
 <html>
-        <title> Table TAG 연습 </title>
   <head>
         <title> Table TAG 연습 </title>
   </head>
   <body>
     <h1> Table TAG 연습 (과제 #03-01) </h1>
-    <table border="1">
+    <table border="1" style="border-style: double;">
       <tr>
         <td colspan="4" rowspan="4" align="center"> 1 </td>
         <td colspan="4" rowspan="4" align="center"> 2 </td>
