@@ -16,5 +16,6 @@
       ctx2.lineTo(0,100);
       ctx2.stroke();
     </script>
+    웹프로그래밍2 과목. 예제 공간입니다.
   </body>
 </html>
