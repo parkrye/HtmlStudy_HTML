@@ -3,10 +3,12 @@
         <title>Table TAG 연습</title>
   </head>
   <body>
-    <section>
+    <header>
       <center>
-        <h1> Table TAG 연습 (과제 #03-01) </h1>
+        <h2> Table TAG 연습 (과제 #03-01) </h2>
       </center>
+    </header>
+    <section>
       <article>
         <table border="1" style="width:50%">
           <tr>
