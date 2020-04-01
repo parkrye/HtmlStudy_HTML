@@ -4,7 +4,7 @@
   </head>
   <body>
     <h2> Table TAG 연습 (과제 #03-01) </h2>
-    <table border="1" align="center">
+    <table border="1">
       <tr>
         <td colspan="4" rowspan="4" align="center">1</td>
         <td colspan="4" rowspan="4" align="center">2</td>
@@ -26,5 +26,6 @@
         <td align="center">10</td>
       </tr>
     </table>
+    웹프로그래밍2 과목. 예제 공간입니다.
   </body>
 </html>
