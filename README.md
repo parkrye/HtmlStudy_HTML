@@ -6,7 +6,7 @@
 
  - 페이지 이동입니다<br>
    **[테이블 연습 페이지](https://parkrye.github.io/TableTag "테이블 페이지 바로가기")**<br>
-   **[캔버스 연습 페이지](https://parkrye.github.io/TableTag "캔버스 페이지 바로가기")**<br>
+   **[캔버스 연습 페이지](https://parkrye.github.io/Canvas "캔버스 페이지 바로가기")**<br>
 
  - 노래 링크와 가사<br>
   **[자우림 : 스물다섯, 스물하나](https://www.youtube.com/watch?v=qvJ1FHRR1n8 "노래 듣기")**   
