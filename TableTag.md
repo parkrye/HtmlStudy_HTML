@@ -1,7 +1,6 @@
-<! DOCTYPE html>
 <html>
   <head>
-    <title> # Table TAG 연습 (과제 $#35;03-01) </title>
+    # Table TAG 연습 (과제 $#35;03-01)
   </head>
   <body>
     <section>
