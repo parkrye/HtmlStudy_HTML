@@ -6,24 +6,24 @@
     <h2> Table TAG 연습 (과제 #03-01) </h2>
     <table border="1">
       <tr>
-        <td colspan="4" rowspan="4" align="center">1</td>
-        <td colspan="4" rowspan="4" align="center">2</td>
+        <td colspan="4" rowspan="4" align="center"> 1 </td>
+        <td colspan="4" rowspan="4" align="center"> 2 </td>
       </tr>
       <tr/> <tr/> <tr/>
       <tr>
-        <td colspan="4" rowspan="4" align="center">3</td>
-        <td colspan="2" rowspan="2" align="center">4</td>
-        <td colspan="2" rowspan="2" align="center">5</td>
+        <td colspan="4" rowspan="4" align="center"> 3 </td>
+        <td colspan="2" rowspan="2" align="center"> 4 </td>
+        <td colspan="2" rowspan="2" align="center"> 5 </td>
       </tr>
       <tr/>
       <tr>
-        <td colspan="2" rowspan="2" align="center">6</td>
-        <td align="center">7</td>
-        <td align="center">8</td>
+        <td colspan="2" rowspan="2" align="center"> 6 </td>
+        <td align="center"> 7 </td>
+        <td align="center"> 8 </td>
       </tr>
       <tr>
-        <td align="center">9</td>
-        <td align="center">10</td>
+        <td align="center"> 9 </td>
+        <td align="center"> 10 </td>
       </tr>
     </table>
     웹프로그래밍2 과목. 예제 공간입니다.
