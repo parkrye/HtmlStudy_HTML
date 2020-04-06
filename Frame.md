@@ -36,6 +36,8 @@
       <a href="블루주소" target="if_c">파랑</a>
     |
     </span>
+  </div>
+  <p/>
   
 </body>
 </html>
