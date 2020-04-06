@@ -16,6 +16,7 @@
       <a href="블루주소" target="if_a">파랑</a>
     |
     </span>
+    <p>
     두번째 <iframe> : 
     <span>
       <a href="레드주소" target="if_b">빨강</a>
@@ -25,6 +26,7 @@
       <a href="블루주소" target="if_b">파랑</a>
     |
     </span>
+    <p>
     세번째 <iframe> : 
     <span>
       <a href="레드주소" target="if_c">빨강</a>
