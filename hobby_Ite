@@ -5,7 +5,7 @@
 <body>
   <section>
     <article>
-      <h3 style="align=right">보물고블린 : 라캉</h3>
+      <right><h3>보물고블린 : 라캉</h3></right>
       <ul>
         <hr align="center" style="border:solid 2px black; width:100%;">
         <li id="ins"> 고양감 </li>
