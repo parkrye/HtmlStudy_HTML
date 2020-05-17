@@ -3,16 +3,16 @@
 <head>
   <title>Animation Test</title>
   <style>
-    div {
+    div[id="container"] {
+      background-color : black;
+      border : 1px solid black;
+    }
+    div[id="box"] {
       width : 10px;
       height : 50px;
       background : linear-gradient(black, yellow, black);
       position : relative;
       animation : boxmove 5s linear infinite alternate;
-    }
-    .container {
-      background-color : black;
-      border : 1px solid black;
     }
     @keyframes boxmove {
       from { left : 0px; }
@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-  <div class="container">
+  <div id="container">
     <div id="box"></div>
   </div>
   과제 &#35;07&#45;01&#44; 박경륜&#40;201714179&#41;
