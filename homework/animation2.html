@@ -3,10 +3,6 @@
 <head>
   <title>Animation Test2</title>
   <style>
-    div#container {
-      width : 500px; height : 500px;
-      background : white; border : 1px solid black;
-    }
     @keyframes boxmove {
       from, to {
         bottom : 0px;
@@ -17,7 +13,7 @@
         animation-timing-function : ease-in;
       }
     }
-    container > div {
+    div {
       position : absolute; width : 20px; height : 20px; border-radius : 10px;
       animation-name : bounce;
       animation-iteration-count : infinite;
@@ -45,13 +41,11 @@
   </style>
 </head>
 <body>
-  <div id="container">
-    <div id="b1"></div>
-    <div id="b2"></div>
-    <div id="b3"></div>
-    <div id="b4"></div>
-    <div id="b5"></div>
-  </div>
+  <div id="b1"></div>
+  <div id="b2"></div>
+  <div id="b3"></div>
+  <div id="b4"></div>
+  <div id="b5"></div>
   과제 &#35;07&#45;02&#44; 박경륜&#40;201714179&#41;
 </body>
 </html>
