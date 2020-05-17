@@ -3,6 +3,10 @@
 <head>
   <title>Animation Test2</title>
   <style>
+    div#container {
+      width : 500px; height : 500px;
+      background : white; border : 1px solid black;
+    }
     @keyframes boxmove {
       from, to {
         bottom : 0px;
@@ -19,33 +23,35 @@
       animation-iteration-count : infinite;
     }
     #b1 {
-      left : 10px; background : red; background : radical-gradient(circle, white, red);
+      left : 10px; background : radical-gradient(circle, white, red);
       animation-duration : 5s;
     }
     #b2 {
-      left : 50px; background : red; background : radical-gradient(circle, white, blue);
+      left : 50px; background : radical-gradient(circle, white, blue);
       animation-duration : 10s;
     }
     #b3 {
-      left : 90px; background : red; background : radical-gradient(circle, white, green);
+      left : 90px; background : radical-gradient(circle, white, green);
       animation-duration : 3s;
     }
     #b4 {
-      left : 130px; background : red; background : radical-gradient(circle, white, silver);
+      left : 130px; background : radical-gradient(circle, white, silver);
       animation-duration : 8s;
     }
     #b5 {
-      left : 170px; background : red; background : radical-gradient(circle, white, black);
+      left : 170px; background : radical-gradient(circle, white, black);
       animation-duration : 1s;
     }
-    </style>
+  </style>
 </head>
 <body>
-  <div id="b1"></div>
-  <div id="b2"></div>
-  <div id="b3"></div>
-  <div id="b4"></div>
-  <div id="b5"></div>
+  <div id="container">
+    <div id="b1"></div>
+    <div id="b2"></div>
+    <div id="b3"></div>
+    <div id="b4"></div>
+    <div id="b5"></div>
+  </div>
   과제 &#35;07&#45;02&#44; 박경륜&#40;201714179&#41;
 </body>
 </html>
