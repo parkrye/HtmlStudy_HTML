@@ -1,1 +1,19 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animation Test</title>
+  <style>
+    div {
+      width : 100px;
+      height : 50px;
+      background : red;
+      animation : boxmove 5s linear infinite alternate;
+    }
+    @keyframes boxmove {
+      from { left : 0px; }
+      to { left : 500px;}
+</head>
+<body>
+  <div id="box">Go and Come</div>
+</body>
+</html>
