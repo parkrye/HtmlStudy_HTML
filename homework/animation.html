@@ -4,21 +4,26 @@
   <title>Animation Test</title>
   <style>
     div {
-      width : 30px;
-      height : 30px;
-      background : orange;
+      width : 10px;
+      height : 50px;
+      background : linear-gradient(black, yellow, black);
       position : relative;
       animation : boxmove 5s linear infinite alternate;
     }
+    .container {
+      background-color : black;
+      border : 1px solid black;
+    }
     @keyframes boxmove {
       from { left : 0px; }
-      to { left : 270px;}
+      to { left : 290px;}
     }
     </style>
 </head>
 <body>
-  <div id="box">움직여요!</div>
-  <hr width="300px" align="left"><p>
-  300px 표시선
+  <div class="container">
+    <div id="box"></div>
+  </div>
+  과제 &#35;07&#45;01&#44; 박경륜&#40;201714179&#41;
 </body>
 </html>
